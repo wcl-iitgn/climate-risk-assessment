@@ -1,39 +1,13 @@
 {
   "files": {
-    "main.css": "/climate-risk-assessment/static/css/main.73aa56f3.css",
-    "main.js": "/climate-risk-assessment/static/js/main.cf30322f.js",
-    "static/js/181.aaaa8ebf.chunk.js": "/climate-risk-assessment/static/js/181.aaaa8ebf.chunk.js",
-    "static/js/503.536276ee.chunk.js": "/climate-risk-assessment/static/js/503.536276ee.chunk.js",
-    "static/js/498.6e6e91ae.chunk.js": "/climate-risk-assessment/static/js/498.6e6e91ae.chunk.js",
-    "static/js/703.ba3d4b39.chunk.js": "/climate-risk-assessment/static/js/703.ba3d4b39.chunk.js",
-    "static/js/379.b49de79a.chunk.js": "/climate-risk-assessment/static/js/379.b49de79a.chunk.js",
-    "static/js/389.f8af51ca.chunk.js": "/climate-risk-assessment/static/js/389.f8af51ca.chunk.js",
-    "static/js/199.f45a7ba8.chunk.js": "/climate-risk-assessment/static/js/199.f45a7ba8.chunk.js",
-    "static/css/955.91fae2b5.chunk.css": "/climate-risk-assessment/static/css/955.91fae2b5.chunk.css",
-    "static/js/955.011668bf.chunk.js": "/climate-risk-assessment/static/js/955.011668bf.chunk.js",
-    "static/media/dashboard-timeseries.jpg": "/climate-risk-assessment/static/media/dashboard-timeseries.5879aa968319f53c4f74.jpg",
-    "static/media/dashboard-map.jpg": "/climate-risk-assessment/static/media/dashboard-map.f26e5f5e83b6e729a778.jpg",
-    "static/media/Aman_Chaudhary.jpg": "/climate-risk-assessment/static/media/Aman_Chaudhary.b8c4a4125cb023398def.jpg",
-    "static/media/dipesh.jpg": "/climate-risk-assessment/static/media/dipesh.c58862932153dd0901c8.jpg",
-    "static/media/VimalMishra.jpeg": "/climate-risk-assessment/static/media/VimalMishra.71c90ff6a81d257d9201.jpeg",
-    "static/media/Anuj.jpg": "/climate-risk-assessment/static/media/Anuj.1621b9994d5cfe210d1e.jpg",
-    "static/media/SaranAadhar.jpeg": "/climate-risk-assessment/static/media/SaranAadhar.2fa604088e5dffd4cc7d.jpeg",
-    "static/media/map-legend.jpg": "/climate-risk-assessment/static/media/map-legend.12e049e854edf9562915.jpg",
+    "main.css": "/climate-risk-assessment/static/css/main.5968293c.css",
+    "main.js": "/climate-risk-assessment/static/js/main.d1c94178.js",
     "index.html": "/climate-risk-assessment/index.html",
-    "main.73aa56f3.css.map": "/climate-risk-assessment/static/css/main.73aa56f3.css.map",
-    "main.cf30322f.js.map": "/climate-risk-assessment/static/js/main.cf30322f.js.map",
-    "181.aaaa8ebf.chunk.js.map": "/climate-risk-assessment/static/js/181.aaaa8ebf.chunk.js.map",
-    "503.536276ee.chunk.js.map": "/climate-risk-assessment/static/js/503.536276ee.chunk.js.map",
-    "498.6e6e91ae.chunk.js.map": "/climate-risk-assessment/static/js/498.6e6e91ae.chunk.js.map",
-    "703.ba3d4b39.chunk.js.map": "/climate-risk-assessment/static/js/703.ba3d4b39.chunk.js.map",
-    "379.b49de79a.chunk.js.map": "/climate-risk-assessment/static/js/379.b49de79a.chunk.js.map",
-    "389.f8af51ca.chunk.js.map": "/climate-risk-assessment/static/js/389.f8af51ca.chunk.js.map",
-    "199.f45a7ba8.chunk.js.map": "/climate-risk-assessment/static/js/199.f45a7ba8.chunk.js.map",
-    "955.91fae2b5.chunk.css.map": "/climate-risk-assessment/static/css/955.91fae2b5.chunk.css.map",
-    "955.011668bf.chunk.js.map": "/climate-risk-assessment/static/js/955.011668bf.chunk.js.map"
+    "main.5968293c.css.map": "/climate-risk-assessment/static/css/main.5968293c.css.map",
+    "main.d1c94178.js.map": "/climate-risk-assessment/static/js/main.d1c94178.js.map"
   },
   "entrypoints": [
-    "static/css/main.73aa56f3.css",
-    "static/js/main.cf30322f.js"
+    "static/css/main.5968293c.css",
+    "static/js/main.d1c94178.js"
   ]
 }
